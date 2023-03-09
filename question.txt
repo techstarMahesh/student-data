@@ -1,0 +1,5 @@
+1. Find the Best 3 students To know who is best, add the marks for students. Only the marks that are more than 33% of maximum marks can be addedMaximum marks for this evaluation are to be set to 50  
+2. Create a function getResultOfClass that accepts a string parameter and returns list of students along with their rank in class. Rank is again based on total marks obtainedTotal marks calculation criteria is discussed in first task. You can add more students in json if needed and format the data in following format 
+John Doe obtained x marks [English() <Pass/Fail>, Maths(), Physics(), Chemistry()] got 1st Position
+Bob Doe obtained x marks [English() <Pass/Fail>, Maths(), Physics(), Chemistry()] got 2rd Positio
+Jane Doe obtained x marks [English() <Pass/Fail>, Maths(), Physics(), Chemistry()] got 3rd Position
